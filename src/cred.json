@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimal-jigsaw-394602",
+  "private_key_id": "bea6751bf7cc7d2d36e51a42838ca6acff08dd1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCpgEktLE1ZF2NW\niWKpFlrkoB2Y4Fu7xiGVmwH6DOxw51QGYiaS37b7AIPRIMFYJ1G0Oq5DxjIcVTDy\nvnlliJeu6sfroOdxvtyXXlirQjt2DJWRdn2u1Y2HK4lXotj8B9s2Up6FDcPaaf8F\nwhNk0JvDXJ0R7g/8cvLyzj1aMoZqUqmbtnZ2UzyP9UQPOuK+29+eUQJ2CCJMfFOc\np/HlJONhJU2nQETv0zg0YZy37pKpJwc4pIDT/HLyRcMx/74Pi4Ph/plUenKh2aED\nIV5n6ppGO7RTnKr1nbbgArvIRt9ohzhidy/4peV5nF+DUEB+grOgP6jAf2Ty5iuO\nterpfm4LAgMBAAECggEABv3GxuliDVqExep9GnVUwsOvRNbS4dAJIuxrAfSA13gA\nhBI4qME31mrjL6qMCbChfZoYBa1J9Czitnh7IGAocCtjRfRJPOypmPK9cd7q/fJZ\n7vngsufrDQK+M6erZIXcbwVXCteSVv1ylTsNOrt3WUZbfNmsE3ZtpUHdek1wNDgV\nrFcMfcdMtluTrABtVw/asufKszZf2EBftaIus6QyD3XNGBXgv+U4pHAE4SdlHFKQ\nut8iU7X/dyXdvZgS6/uepkGqMtB9iQSNI8joAPkBrm4Rs67VZJ/NzldUVT/r2zFa\nAiopzHxeuWzrLHrQ7RK5llDMh3fmRWLdQfFqTBHfCQKBgQDpV0Lnv9LQFwPD9KIN\ndaHEPA0hevOdBOOBiz51gDp+1juSp4dmbhosQobv2bXcqfShN2Td3wqsgpG8oPd8\nKDEksfKwwB0brhgTMESludsLWO39OWr5I93PYUePNmMIqhzPUC2rNIvFXOYxo9h6\n1bC47Wp4yL3kksacOLruBr4VCQKBgQC59f/4xBBn5V4XWqebK6k3lLozf7izLuv1\nWC6IW/3Z3aZcAYo6N5qosiqbVNv8l/wUtSrAWG53rSZ8VZuBJQhkqSCG0NCn3Cae\nmg0mnGG7FKkruM3CWWDYF4nhTfKSLut4+ukhI6x4XSTc2QNf1PQi6YjzJIai3jFV\ntgp/GtTjcwKBgQDPxCUMmR6qrnNp3b8VYPJC+n1unD2iSCISzNs2YJC1MygkMws6\nxzqCwlHH6wAllSb/DYXAkMK+TBxb6q+yW082r0O64bSJWwCQxV+6eLxzZCG0YZXA\ndJEiACppeDHCG0Y/ydKAKO9zMn69IHi3FuKeJrexCH0csxwpKdI38sT5kQKBgQCx\noUr9zALDy3OiKUUaUo1T+ywVjzXVaseXVsE0HXMRDckf75Si4YRJCc7rCxcLY/41\npYwNqSr0BCBT+c4NgVtQE8FvJb156i+1pf9T12L/OdASZHee4pNANtPMtBE2E713\nlWzk69eOLaLNljnD6328b4kSf9xfbJCBh97k5LNgAwKBgQDc6fsEJmrIEUaMNDZq\nWuLDyrMoOvP5m7RSXGZASgHHuQBed31xYqLdVrNiImy2lav7triMZnnjLxCx2C/0\nH/XEchdRlwPMHlfIw9fWGnt+nsb3JI9Jeu/bdUxH1nC8hX1C3fYBlUGeKjLjpcpZ\nBjqVAyT6Sg1a5TEK7g61JxYNLA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "asm-cloud@optimal-jigsaw-394602.iam.gserviceaccount.com",
+  "client_id": "102418097776939286876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asm-cloud%40optimal-jigsaw-394602.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
