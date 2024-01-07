@@ -9,7 +9,7 @@ const Product = require("../data/data");
 router.use(express.json());
 
 const mongoURI =
-  "mongodb+srv://root:Tienphat%40011201@cluster0.9u6cfsk.mongodb.net/Mongo-demo";
+  "mongodb+srv://admin:XjlNGE7sHHPxNSbI@clustersell.qwue2wg.mongodb.net/Mongo-demo";
 mongoose
   .connect(mongoURI, {
     useNewUrlParser: true,

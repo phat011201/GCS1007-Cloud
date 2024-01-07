@@ -101,7 +101,20 @@ addProductBtn.addEventListener("click", () => {
 
   const image = reader.result;
 
-  // Tạo một đối tượng sản phẩm mới
+  // check data
+  if (!image) {
+    alert("Image is required");
+    return;
+  }
+  if (!productName) {
+    alert("Product name is required");
+    return;
+  }
+  if (!description) {
+    alert("Description is required");
+    return;
+  }
+
   const newProduct = {
     productName,
     price,
